@@ -1,0 +1,88 @@
+.tudo{
+    width: 700px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.nome{
+    height: 20px;
+    width: 250px;
+    padding: 20px;
+    margin-right: 60px;
+    margin-bottom: 10px;
+    float: left;
+    background-color: tomato;
+}
+.curso{
+    height: 20px;
+    width: 250px;
+    padding: 20px;
+    margin-right: 60px;
+    margin-bottom: 10px;
+    float: right;
+    background-color: tomato;
+}
+
+.dataNasc{
+    height: 20px;
+    width: 250px;
+    padding: 20px;
+    margin-right: 60px;
+    margin-bottom: 10px;
+    float: left;
+    background-color: tomato;
+}
+.ultAtu{
+    height: 20px;
+    width: 250px;
+    padding: 20px;
+    margin-right: 60px;
+    margin-bottom: 10px;
+    float: right;
+    background-color: tomato;
+}
+
+.Rotina{
+    height: 230px;
+    width: 250px;
+    padding: 20px;
+    margin-right: 60px;
+    margin-bottom: 10px;
+    float: left;
+    background-color: slateblue;
+
+}
+
+.Hobbies{
+    height: 230px;
+    width: 250px;
+    padding: 20px;
+    margin-right: 60px;
+    margin-bottom: 10px;
+    float: right;
+    background-color: greenyellow;
+ 
+}
+
+.Bandas{
+    height: 230px;
+    width: 250px;
+    padding: 20px;
+    margin-right: 60px;
+    margin-bottom: 10px;
+    float: left;
+    background-color: greenyellow;
+
+}
+
+.Viagens{
+    height: 230px;
+    width: 250px;
+    padding: 20px;
+    margin-right: 60px;
+    margin-bottom: 10px;
+    float: right;
+    background-color: slateblue;
+}
